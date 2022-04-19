@@ -14,7 +14,7 @@
 -Azure Data Studio
 -Docker (for SQL Server)
 
-**Features
+# Features
 
 - Create a new customer
 - Get list of all customers
@@ -24,27 +24,23 @@
 - View order history by customer
 - View customer invoice (total from all his or her orders)
 
-**To-Do List:
+# To-Do List:
 
 - Create views for a nice UI
 - Improve Serilog to show only information directly related to user actions in the API
 
-**Getting Started
+# Getting Started
 
 1 - Clone the reposisotry (git clone https://github.com/thecodercody/TheChopHouse.git)
 2 - Create a docker container running an SQL server if on Mac or just a local SQL Server if on Windows
 3 - Restore the database locally using the .bak file
+4 - Change the connection string for the correct server destination and username/password, if needed
+5 - Run the file in RELEASE mode from within Visual Studio.  You should see the following:
+<img width="1422" alt="screenshot" src="https://user-images.githubusercontent.com/8681966/164037749-309b0d22-bf07-43c6-be34-65daa8655651.png">
+6 - Adding a customer requires adding a first name and a last name into the JSON input.  The id will be automatically assigned, and the balance due will take care of itself, as well.
+7 - Add items from the menu, which is found in the drop-create-insert.sql file in TheChopHouse/TheChopHouse/Models/ directory.  Do this by copying the entire line for each item into the JSON input given when clicking "add order" in the Swagger UI.
+8 - The other features will work as expected and are self-explanatory.
 
-Be sure to include BOTH Windows and Unix command
-Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-All the code required to get started
-Images of what it should look like
-Usage
+# License
 
-Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-Contributors
-
-Here list the people who have contributed to this project. (ignore this section, if its a solo project)
-License
-
-This project uses the following license: <license_name>.
+This project uses the following license: MIT
