@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "749M5nmxqAxtJyD05csV5U99sEnnN64zZKkRG6A5413JkbUB+amfCBR6wGTJkOTBdTi+KtjlPc9+pHlGt13A3Q==",
+  "dgSpecHash": "oiC98MFQUgXBGKfZH2FOLf8lJEfesiWWQ+5oQB4T0YWmsFYRqrkWlnyQWhMbap1rZFswnSBqn3qgpau7ZPt0gw==",
   "success": true,
-  "projectFilePath": "/Users/codyscholberg/Desktop/projects/project1-REST-api/TheChopHouse/TheChopHouse.csproj",
+  "projectFilePath": "/Users/codyscholberg/Desktop/projects/TheChopHouse/TheChopHouse/TheChopHouse.csproj",
   "expectedPackageFiles": [
     "/Users/codyscholberg/.nuget/packages/humanizer.core/2.2.0/humanizer.core.2.2.0.nupkg.sha512",
     "/Users/codyscholberg/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

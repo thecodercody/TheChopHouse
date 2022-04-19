@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/codyscholberg/Desktop/projects/project1-REST-api/TheChopHouse/TheChopHouse.csproj": {}
+    "/Users/codyscholberg/Desktop/projects/TheChopHouse/TheChopHouse/TheChopHouse.csproj": {}
   },
   "projects": {
-    "/Users/codyscholberg/Desktop/projects/project1-REST-api/TheChopHouse/TheChopHouse.csproj": {
+    "/Users/codyscholberg/Desktop/projects/TheChopHouse/TheChopHouse/TheChopHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/codyscholberg/Desktop/projects/project1-REST-api/TheChopHouse/TheChopHouse.csproj",
+        "projectUniqueName": "/Users/codyscholberg/Desktop/projects/TheChopHouse/TheChopHouse/TheChopHouse.csproj",
         "projectName": "TheChopHouse",
-        "projectPath": "/Users/codyscholberg/Desktop/projects/project1-REST-api/TheChopHouse/TheChopHouse.csproj",
+        "projectPath": "/Users/codyscholberg/Desktop/projects/TheChopHouse/TheChopHouse/TheChopHouse.csproj",
         "packagesPath": "/Users/codyscholberg/.nuget/packages/",
-        "outputPath": "/Users/codyscholberg/Desktop/projects/project1-REST-api/TheChopHouse/obj/",
+        "outputPath": "/Users/codyscholberg/Desktop/projects/TheChopHouse/TheChopHouse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/codyscholberg/.nuget/NuGet/NuGet.Config"
