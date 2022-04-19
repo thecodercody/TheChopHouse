@@ -2,7 +2,7 @@
 
 ![TCH-logo](https://user-images.githubusercontent.com/8681966/164029883-c116a420-8624-4ef4-bb1c-7aec02a68601.png)
 
-**Technologies Used
+# Technologies Used
 
 -Visual Studio for Mac
 - C#
