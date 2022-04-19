@@ -4,15 +4,15 @@
 
 # Technologies Used
 
--Visual Studio for Mac
+- Visual Studio for Mac
 - C#
 - .NET Core 5.0
--ADO.NET
--Swagger
--Serilog
--SQL Server
--Azure Data Studio
--Docker (for SQL Server)
+- ADO.NET
+- Swagger
+- Serilog
+- SQL Server
+- Azure Data Studio
+- Docker (for SQL Server)
 
 # Features
 
