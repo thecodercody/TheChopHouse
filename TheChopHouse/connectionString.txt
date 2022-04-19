@@ -1,0 +1,1 @@
+server=localhost,1433; database=EmployeeManagement; User ID=sa; Password=Strong.Pwd-123"
